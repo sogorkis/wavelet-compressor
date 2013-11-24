@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/29/trunk/lib/wavelet_transform
+END
+WaveletTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/18/trunk/lib/wavelet_transform/WaveletTransform.h
+END
+WaveletTransformImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/18/trunk/lib/wavelet_transform/WaveletTransformImpl.h
+END
+Filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/trunk/lib/wavelet_transform/Filter.h
+END
+Wavelet.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/18/trunk/lib/wavelet_transform/Wavelet.h
+END
+WaveletFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/18/trunk/lib/wavelet_transform/WaveletFactory.cpp
+END
+WaveletFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/18/trunk/lib/wavelet_transform/WaveletFactory.h
+END
+CudaWaveletTransform.cu
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/21/trunk/lib/wavelet_transform/CudaWaveletTransform.cu
+END
+Filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/18/trunk/lib/wavelet_transform/Filter.cpp
+END
+WaveletTransformImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/29/trunk/lib/wavelet_transform/WaveletTransformImpl.cpp
+END
+WaveletTransformCudaImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21/trunk/lib/wavelet_transform/WaveletTransformCudaImpl.h
+END
+Wavelet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/18/trunk/lib/wavelet_transform/Wavelet.cpp
+END
+WaveletTransformCudaImpl.cu
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/29/trunk/lib/wavelet_transform/WaveletTransformCudaImpl.cu
+END

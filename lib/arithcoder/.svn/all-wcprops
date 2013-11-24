@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/18/trunk/lib/arithcoder
+END
+ArithCoderModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/16/trunk/lib/arithcoder/ArithCoderModel.h
+END
+ArithCoderModelOrder0.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/16/trunk/lib/arithcoder/ArithCoderModelOrder0.cpp
+END
+ArithCoderModelFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/18/trunk/lib/arithcoder/ArithCoderModelFactory.h
+END
+ArithCoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16/trunk/lib/arithcoder/ArithCoder.cpp
+END
+ArithCoderModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/lib/arithcoder/ArithCoderModel.cpp
+END
+ArithCoderModelOrder0.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/16/trunk/lib/arithcoder/ArithCoderModelOrder0.h
+END
+ArithCoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/16/trunk/lib/arithcoder/ArithCoder.h
+END

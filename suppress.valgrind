@@ -1,0 +1,35 @@
+{
+   sup0
+   Memcheck:Addr4
+   fun:OpenCvImageSequence::flushImageSequence
+}
+{
+   sup1
+   Memcheck:Value4
+   ...
+   fun:vprintf
+}
+{
+   sup2
+   Memcheck:Cond
+   ...
+   fun:vprintf
+}
+{
+   sup3
+   Memcheck:Cond
+   ...
+   obj:/usr/lib/i686/cmov/libavcodec.so.52.20.1
+}
+{
+   sup4
+   Memcheck:Value4
+   ...
+   obj:/usr/lib/i686/cmov/libavcodec.so.52.20.1
+}
+{
+   sup5
+   Memcheck:Param
+   ...
+   obj:/usr/lib/i686/cmov/libavcodec.so.52.20.1
+}

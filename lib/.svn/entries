@@ -1,0 +1,49 @@
+10
+
+dir
+31
+http://wavelet-compressor.googlecode.com/svn/trunk/lib
+http://wavelet-compressor.googlecode.com/svn
+
+
+
+2011-07-16T12:46:26.277827Z
+29
+s.ogorkis@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e24dfb9a-c571-4076-9682-6ca86983ce89
+
+common
+dir
+
+color_transform
+dir
+
+compressor
+dir
+
+util
+dir
+
+quantizer
+dir
+
+wavelet_transform
+dir
+
+arithcoder
+dir
+

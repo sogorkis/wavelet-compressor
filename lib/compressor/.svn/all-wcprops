@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/29/trunk/lib/compressor
+END
+CudaWaveletCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/21/trunk/lib/compressor/CudaWaveletCompressor.h
+END
+WaveletCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/22/trunk/lib/compressor/WaveletCompressor.h
+END
+BitAllocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/29/trunk/lib/compressor/BitAllocator.cpp
+END
+CudaWaveletCompressor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/25/trunk/lib/compressor/CudaWaveletCompressor.cpp
+END
+WaveletCompressor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/22/trunk/lib/compressor/WaveletCompressor.cpp
+END
+BitAllocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/22/trunk/lib/compressor/BitAllocator.h
+END
